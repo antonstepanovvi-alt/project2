@@ -16,4 +16,4 @@ total_after = total - S_discount #Итоговая сумма
 
 print (f"Размер скидки: {discount}")
 print (f"Сумма скидки: {S_discount}")
-print (f"Итоговая сумма: {total_after}")
+print (f"Итоговая сумма: {total_after}") #Программа считает сумму заказа, выбирает скидку по диапазону и находит итоговую
